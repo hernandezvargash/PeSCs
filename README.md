@@ -6,8 +6,8 @@
 
 Code required to reproduce the single cell RNAseq analyses published in Wu et al. EMBO Rep 2023, *"Pericyte stem cells induce Ly6G+ cell accumulation and immunotherapy resistance in pancreatic cancer"*, by Zhichong Wu, Kevin Thierry, Sophie Bachy, Xinyi Zhang, Pia Gamradt, Hector Hernandez-Vargas, Ivan Mikaelian, Laurie Tonon, Roxanne Pommier, Yajie Zhao, Philippe Bertolino, and Ana Hennino.
 
-Link to manuscript: https://www.embopress.org/doi/full/10.15252/embr.202256524
-Link to dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220687
+- Link to manuscript: https://www.embopress.org/doi/full/10.15252/embr.202256524
+- Link to dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220687
 
 
 ---
